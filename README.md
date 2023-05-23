@@ -1,2 +1,2 @@
 # ejericioFormularioPHP
-Ejercicio de la clase 19052023 para el curso desarrollo Full Stack impartido por Atenea
+Ejercicio que permite guardar los datos diligenciados en un formulario en un archivo .txt 
